@@ -1,8 +1,15 @@
-# React + Vite
+# Sticky Notes using React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Drag & Drop sticky notes App built with React JS and Appwite.
 
-Currently, two official plugins are available:
+This project is part of a video tutorial from **freeCodeCamp.org** youtube channel.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img src="demo.gif"/>
+
+### Features
+
+-   Drag and Drop notes anywhere on screen
+-   Save note data, position and color in database
+-   Change note color at anytime
+-   Autogrow note size as data is input
+-   Autosave notes as you add data.
